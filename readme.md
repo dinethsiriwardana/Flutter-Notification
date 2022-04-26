@@ -1,10 +1,10 @@
 <h1>Welcome</h1>
 <h2>Push Notification with Flutter & Firebase</h2>
 
-<p style=""> ⚠️⚠️ there was no <i> google-services.json </i> because of the securety reason so you need to add it with your owne firebase project ⚠️⚠️ </p> 
+<p style=""> ⚠️⚠️ there is no <i> google-services.json </i>file attached in this project because of security issues, you need to attach it with your own firebase project ⚠️⚠️</p> 
 
 <br>
-you need this dependencies for this and <i> you can use latest package using click the links</i>
+you need the below dependencies for this project and <i>you can use latest packages using links below</i>
 <br><br>
 dependencies: <br>
 &nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ And add this code line to the <b>AndroidManifest.xml</b> in <i>'android\app\src\
         </activity>
 
 
-Finally you need to add this for the Custom Data in Additional Option in firebase massaging <i> <a href='https://github.com/dinethsiriwardana/flutter-notification/blob/main/ScreenShot/4.png?raw=true'> In Here <a> </i>
+At last add these for the Custom Data as Additional Options in firebase masseging <i> <a href='https://github.com/dinethsiriwardana/flutter-notification/blob/main/ScreenShot/4.png?raw=true'> In Here <a> </i>
   <br>
 Key - click_action <br>
 Value - FLUTTER_NOTIFICATION_CLICK
