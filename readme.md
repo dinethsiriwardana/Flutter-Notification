@@ -46,3 +46,7 @@ And add this code line to the <b>AndroidManifest.xml</b> in <i>'android\app\src\
             </intent-filter>
         </activity>
 
+
+Finally you need to add this for the Custom Data in Additional Option in firebase massaging 
+Key - click_action
+Value - FLUTTER_NOTIFICATION_CLICK
