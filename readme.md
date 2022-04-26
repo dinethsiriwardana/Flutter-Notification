@@ -47,6 +47,7 @@ And add this code line to the <b>AndroidManifest.xml</b> in <i>'android\app\src\
         </activity>
 
 
-Finally you need to add this for the Custom Data in Additional Option in firebase massaging 
-Key - click_action
+Finally you need to add this for the Custom Data in Additional Option in firebase massaging <i> <a href='https://github.com/dinethsiriwardana/flutter-notification/blob/main/ScreenShot/4.png?raw=true'> In Here <a> </i>
+  <br>
+Key - click_action <br>
 Value - FLUTTER_NOTIFICATION_CLICK
